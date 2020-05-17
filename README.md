@@ -11,6 +11,4 @@ Um site em simples onde coloco as minhas anotações sobre as tecnologias que es
 
 # Scripts
 Aqui deixo disponível os meus scripts escrito em shell script.
-
-
-
+ - [Scripts](https://github.com/caio-cesar-nojosa/scripts)
