@@ -11,6 +11,6 @@ Um site em simples onde coloco as minhas anotações sobre as tecnologias que es
 
 # Scripts
 Aqui deixo disponível os meus scripts escrito em shell script.
-![logo](imagens/logo_bash.png){: width=150 height=150 style="float:right"}
+
 
 
