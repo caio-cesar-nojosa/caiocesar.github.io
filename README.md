@@ -1,12 +1,12 @@
-# caiocesar.github.io
+# [caiocesar.github.io](https://github.com/caio-cesar-nojosa)
 
 # Repositório Público Caio César
 
-Esse é um respotorio publico onde deixo para organizar os meus projetos.
+Esse é uma pagina inicial onde deixo disponível o meu repositório público para organizar os meus projetos.
 
-# Meu site
+# Meu site de anotações
 
-Um site em simples onde coloco as minhas anotações sobre as tecnologias que estudo para revisar.
+Um site simples onde coloco as minhas anotações para consultar alguma tecnologia que estou estudando ou estudei.
  - [Anotações na Web](https://caio-cesar-nojosa.github.io/Anotacao_na_web/)
 
 # Scripts
