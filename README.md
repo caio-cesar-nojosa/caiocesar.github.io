@@ -1,5 +1,3 @@
-# [caiocesarnojosa.github.io](https://github.com/caiocesarnojosa)
-
 # Repositório Público de Caio César
 
 Esse é uma pagina inicial onde deixo disponível o meu repositório público para organizar os meus projetos.
