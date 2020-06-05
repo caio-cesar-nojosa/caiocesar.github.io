@@ -1,8 +1,7 @@
 # Repositório Público de Caio César
+Esse é uma pagina inicial onde deixo disponível o meu [repositório público](https://caiocesarnojosa.github.io) para organizar os meus projetos.
 
-Esse é uma pagina inicial onde deixo disponível o meu repositório público para organizar os meus projetos.
-
-<img align="right" src="imagens/site_logo.png" width="200">
+<img align="right" src="imagens/site_logo.png" width="150">
 
 # Meu site de anotações
 Um site simples onde coloco as minhas anotações para consultar alguma tecnologia que estou estudando ou estudei.
