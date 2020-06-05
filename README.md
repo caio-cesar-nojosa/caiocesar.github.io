@@ -1,5 +1,5 @@
 # Repositório Público de Caio César
-Esse é uma pagina inicial onde deixo disponível o meu [repositório público](https://caiocesarnojosa.github.io) para organizar os meus projetos.
+Esse é uma pagina inicial onde deixo disponível o meu [repositório público](https://github.com/caiocesarnojosa) para organizar os meus projetos.
 
 <img align="right" src="imagens/site_logo.png" width="150">
 
